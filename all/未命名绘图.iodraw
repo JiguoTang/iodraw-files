@@ -385,8 +385,14 @@
         <mxCell id="43rHhMgFE151oD3MjAXM-99" value="多源温度感知" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="830" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="43rHhMgFE151oD3MjAXM-100" value="温度动态感知" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="43rHhMgFE151oD3MjAXM-100" value="智能温度控制" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="747" y="830" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43rHhMgFE151oD3MjAXM-101" value="时变温度冲击" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="769" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43rHhMgFE151oD3MjAXM-102" value="空间温度梯度" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="855" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
