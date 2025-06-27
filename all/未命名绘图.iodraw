@@ -429,25 +429,14 @@
         <mxCell id="XrdWKPWLdglqgp0hxL2s-99" value="微通道热补偿" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="1066" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XrdWKPWLdglqgp0hxL2s-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="XrdWKPWLdglqgp0hxL2s-103" target="XrdWKPWLdglqgp0hxL2s-107">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="671" y="1080" />
-              <mxPoint x="801" y="1080" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XrdWKPWLdglqgp0hxL2s-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="XrdWKPWLdglqgp0hxL2s-103" target="XrdWKPWLdglqgp0hxL2s-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XrdWKPWLdglqgp0hxL2s-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="XrdWKPWLdglqgp0hxL2s-103" target="XrdWKPWLdglqgp0hxL2s-105">
+        <mxCell id="XrdWKPWLdglqgp0hxL2s-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="XrdWKPWLdglqgp0hxL2s-103" target="XrdWKPWLdglqgp0hxL2s-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrdWKPWLdglqgp0hxL2s-103" value="多源温度感知" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="758.5" y="980" width="79" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XrdWKPWLdglqgp0hxL2s-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XrdWKPWLdglqgp0hxL2s-105" target="XrdWKPWLdglqgp0hxL2s-107">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrdWKPWLdglqgp0hxL2s-105" value="智能温度控制" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="1066" width="79" height="30" as="geometry" />
