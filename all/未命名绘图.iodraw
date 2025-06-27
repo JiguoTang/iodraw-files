@@ -389,10 +389,10 @@
           <mxGeometry x="747" y="926" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="43rHhMgFE151oD3MjAXM-101" value="时变温度冲击" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="540" y="769" width="90" height="30" as="geometry" />
+          <mxGeometry x="670" y="830" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="43rHhMgFE151oD3MjAXM-102" value="空间温度梯度" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="540" y="855" width="90" height="30" as="geometry" />
+          <mxGeometry x="760" y="830" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
