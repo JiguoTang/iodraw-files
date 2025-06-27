@@ -382,8 +382,11 @@
         <mxCell id="43rHhMgFE151oD3MjAXM-98" value="微通道热补偿" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="751" y="750" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="43rHhMgFE151oD3MjAXM-99" value="温度动态感知" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="43rHhMgFE151oD3MjAXM-99" value="多源温度感知" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="830" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43rHhMgFE151oD3MjAXM-100" value="温度动态感知" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="747" y="830" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
