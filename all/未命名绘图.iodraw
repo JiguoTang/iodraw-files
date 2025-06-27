@@ -377,7 +377,10 @@
           <mxGeometry x="780.9999999999999" y="550" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="43rHhMgFE151oD3MjAXM-97" value="相变材料" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="750" width="90" height="30" as="geometry" />
+          <mxGeometry x="650" y="750" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43rHhMgFE151oD3MjAXM-98" value="微通道热补偿" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="750" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
