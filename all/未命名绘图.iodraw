@@ -427,7 +427,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrdWKPWLdglqgp0hxL2s-99" value="微通道热补偿" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="761.5" y="970" width="79" height="30" as="geometry" />
+          <mxGeometry x="511" y="1066" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XrdWKPWLdglqgp0hxL2s-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="XrdWKPWLdglqgp0hxL2s-103" target="XrdWKPWLdglqgp0hxL2s-107">
           <mxGeometry relative="1" as="geometry">
@@ -453,7 +453,7 @@
           <mxGeometry x="761.5" y="1096" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XrdWKPWLdglqgp0hxL2s-106" value="时变温度冲击" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="626" y="1030" width="90" height="30" as="geometry" />
+          <mxGeometry x="630" y="980" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XrdWKPWLdglqgp0hxL2s-107" value="空间温度梯度" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="756" y="1030" width="90" height="30" as="geometry" />
