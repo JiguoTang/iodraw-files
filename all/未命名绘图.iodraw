@@ -496,6 +496,9 @@
         <mxCell id="as3j4CXIFiJFfB45KIMO-108" value="采用有限体积法建立导热方程的求解方程组，通过追赶发求解获取固体区域温度分布" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="970" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="as3j4CXIFiJFfB45KIMO-109" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="1066" width="80" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
