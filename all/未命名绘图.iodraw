@@ -528,6 +528,12 @@
         <mxCell id="as3j4CXIFiJFfB45KIMO-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="670" width="220" height="460" as="geometry" />
         </mxCell>
+        <mxCell id="as3j4CXIFiJFfB45KIMO-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="as3j4CXIFiJFfB45KIMO-121" target="as3j4CXIFiJFfB45KIMO-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as3j4CXIFiJFfB45KIMO-121" value="确定储气库尺寸、储气库外密封层和岩石的物性" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="690" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
