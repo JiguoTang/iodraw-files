@@ -497,10 +497,10 @@
           <mxGeometry x="1200" y="970" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="as3j4CXIFiJFfB45KIMO-109" value="&lt;b&gt;是否到达最终时间&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1239" y="1066" width="80" height="64" as="geometry" />
+          <mxGeometry x="1239" y="1066" width="91" height="74" as="geometry" />
         </mxCell>
         <mxCell id="as3j4CXIFiJFfB45KIMO-110" value="计算结束" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1130" width="180" height="50" as="geometry" />
+          <mxGeometry x="1200" y="1150" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
