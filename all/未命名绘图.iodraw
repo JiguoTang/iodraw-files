@@ -464,8 +464,11 @@
         <mxCell id="as3j4CXIFiJFfB45KIMO-96" value="建立储气库内质量守恒、能量守恒和储气库外多层固体导热模型" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="680" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="as3j4CXIFiJFfB45KIMO-97" value="建立储气库内质量守恒、能量守恒和储气库外多层固体导热模型" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="as3j4CXIFiJFfB45KIMO-97" value="对储气库外固体区域进行网格划分" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="770" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="as3j4CXIFiJFfB45KIMO-98" value="对储气库外固体区域进行网格划分" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="780" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
