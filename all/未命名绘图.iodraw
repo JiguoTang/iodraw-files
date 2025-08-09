@@ -484,8 +484,8 @@
         <mxCell id="as3j4CXIFiJFfB45KIMO-104" value="初始化储气库内外温度和压力" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="950" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="as3j4CXIFiJFfB45KIMO-105" value="初始化储气库内外温度和压力" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="960" width="180" height="50" as="geometry" />
+        <mxCell id="as3j4CXIFiJFfB45KIMO-105" value="根据改进欧拉法，求解压缩空气质量守恒方程，获取当前时间步空气质量" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="680" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
