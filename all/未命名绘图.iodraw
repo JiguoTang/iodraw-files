@@ -493,7 +493,7 @@
         <mxCell id="as3j4CXIFiJFfB45KIMO-107" value="根据有限差分法离散空气能量守恒方程，利用改进欧拉法和斯蒂芬森法，求解压缩空气能量守恒方程，获取当前时间步空气的温度和压力" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="860" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="as3j4CXIFiJFfB45KIMO-108" value="根据NIST实际气体模型，计算上一步压缩因子和空气物性" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="as3j4CXIFiJFfB45KIMO-108" value="采用有限体积法建立导热方程的求解方程组，通过追赶发求解获取固体区域温度分布" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="970" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
