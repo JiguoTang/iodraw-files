@@ -461,6 +461,9 @@
             <mxPoint x="730" y="1005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="as3j4CXIFiJFfB45KIMO-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="as3j4CXIFiJFfB45KIMO-96" target="as3j4CXIFiJFfB45KIMO-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="as3j4CXIFiJFfB45KIMO-96" value="建立储气库内质量守恒、能量守恒和储气库外多层固体导热模型" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="680" width="180" height="50" as="geometry" />
         </mxCell>
