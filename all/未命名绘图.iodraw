@@ -520,7 +520,7 @@
         <mxCell id="as3j4CXIFiJFfB45KIMO-118" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="940" y="940" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="as3j4CXIFiJFfB45KIMO-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as3j4CXIFiJFfB45KIMO-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1170" y="660" width="240" height="460" as="geometry" />
         </mxCell>
       </root>
