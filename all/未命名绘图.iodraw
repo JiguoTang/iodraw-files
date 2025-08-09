@@ -517,10 +517,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="as3j4CXIFiJFfB45KIMO-109" value="&lt;b&gt;是否到达&lt;/b&gt;&lt;div&gt;&lt;b&gt;最终时间&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1244.5" y="1033" width="91" height="74" as="geometry" />
+          <mxGeometry x="1244.5" y="1033" width="91" height="57" as="geometry" />
         </mxCell>
         <mxCell id="as3j4CXIFiJFfB45KIMO-110" value="计算结束" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1219.5" y="1160" width="130" height="50" as="geometry" />
+          <mxGeometry x="1225" y="1150" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="as3j4CXIFiJFfB45KIMO-118" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="751" y="1089" width="80" height="80" as="geometry" />
