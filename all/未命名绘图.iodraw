@@ -467,8 +467,8 @@
         <mxCell id="as3j4CXIFiJFfB45KIMO-97" value="对储气库外固体区域进行网格划分" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="770" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="as3j4CXIFiJFfB45KIMO-98" value="对储气库外固体区域进行网格划分" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="780" width="180" height="50" as="geometry" />
+        <mxCell id="as3j4CXIFiJFfB45KIMO-98" value="获取边界条件、充放气时间、温度和流量" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="860" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
