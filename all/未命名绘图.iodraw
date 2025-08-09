@@ -481,6 +481,11 @@
             <mxPoint x="1040" y="910" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="as3j4CXIFiJFfB45KIMO-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="as3j4CXIFiJFfB45KIMO-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="as3j4CXIFiJFfB45KIMO-104" value="初始化储气库内外温度和压力" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="950" width="180" height="50" as="geometry" />
         </mxCell>
