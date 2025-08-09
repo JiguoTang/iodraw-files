@@ -481,7 +481,7 @@
             <mxPoint x="1040" y="910" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="as3j4CXIFiJFfB45KIMO-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="as3j4CXIFiJFfB45KIMO-104">
+        <mxCell id="as3j4CXIFiJFfB45KIMO-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="as3j4CXIFiJFfB45KIMO-104" target="as3j4CXIFiJFfB45KIMO-105">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="1220" as="targetPoint" />
           </mxGeometry>
@@ -526,7 +526,7 @@
           <mxGeometry x="751" y="1089" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="as3j4CXIFiJFfB45KIMO-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="660" width="240" height="460" as="geometry" />
+          <mxGeometry x="1470" y="681" width="240" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
